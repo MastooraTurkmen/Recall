@@ -4,9 +4,9 @@ Recording scammers has never been easier. Simply answer, click record, and the r
 
 ## Mobile
 
-                                   ![Alt text](Mobile-1.png)
-                                   ![Alt text](Mobile-2.png)
-                                   ![Alt text](Mobile-3.png)
+![Alt text](Mobile-1.png)
+![Alt text](Mobile-2.png)
+![Alt text](Mobile-3.png)
 
 ## Tablet
 
